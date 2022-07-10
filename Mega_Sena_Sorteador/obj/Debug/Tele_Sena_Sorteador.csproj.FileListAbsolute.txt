@@ -1,0 +1,43 @@
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.exe.config
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.csprojAssemblyReference.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Menu.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Properties.Resources.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Sorveteria.Sorv.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.csproj.GenerateResource.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.csproj.CoreCompileInputs.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Bang da Bruna\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Sorteador.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.exe.config
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.pdb
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.csprojAssemblyReference.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form1.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form2.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form3.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form4.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form5.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Menu.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Properties.Resources.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Sorteador.resources
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.csproj.GenerateResource.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.csproj.CoreCompileInputs.cache
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.exe
+J:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.pdb
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.exe.config
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\bin\Debug\Tele_Sena_Sorteador.pdb
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.csprojAssemblyReference.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form1.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form2.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form3.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form4.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\MUV_calculator.Form5.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Menu.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Properties.Resources.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.Sorteador.resources
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.csproj.GenerateResource.cache
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.exe
+G:\Cesar (pasta geral)\CTI\2º Ano\Atividades À DISTÂNCIA (pelo Coronavirus)\Fase 2\C#\Tele_Sena\Tele_Sena_Sorteador\obj\Debug\Tele_Sena_Sorteador.pdb
